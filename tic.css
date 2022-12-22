@@ -1,0 +1,102 @@
+        body{
+            background-color: lightsalmon;
+            background-attachment: fixed;
+        }
+        h1{
+            text-align: center;
+            margin-right: 50px;
+            font-size: 70px;
+        }
+        p{
+            text-align: center;
+            font-style: bold;
+            font-family: sans-serif;
+            font-size: 50px;
+        }
+        .t2{
+            margin-top:23px; ;
+        }
+        #bt1{
+            font-size: 23px;
+            font-family: sans-serif;
+        }
+        #bt1:hover{
+            font-size: 30px;
+        }
+        #bt2{
+            font-size: 23px;
+            font-family: sans-serif;
+            margin-left: 40px;
+        }
+        #bt2:hover{
+            font-size: 30px;
+        }
+        .first{
+            width: 75px;
+            height: 75px;
+            border: 3px solid black;
+            
+        }
+        @keyframes first {
+            from{border: 3px solid black;}
+            to{border: 3px solid darkblue;}
+        }
+        .first:hover{
+            border: 5px solid black; 
+        }
+                
+        .second{
+            width: 75px;
+            height: 75px;
+            border: 3px solid black;
+        }
+        .second:hover{
+            border: 5px solid black;
+        }
+
+        .third{
+            width: 75px;
+            height: 75px;
+            border: 3px solid black;
+        }
+        .third:hover{
+            border: 5px solid black;
+        }
+        table{
+            margin-left: 600px;
+            margin-top: 65px;
+        }
+        .temp1{
+            height: 100px;   
+            width:100px;
+            border: 2px solid black;
+        }
+        .temp2{
+            height: 100px;   
+            width: 100px;
+            border: 2px solid black;
+            margin-left: 1200px;
+            margin-bottom: 40px;
+        }
+        .d1{
+            width: 75px;
+            height: 45px;
+            border: 3px solid blue;
+            margin-left: 0px;
+            text-align: center;
+            font-size: 30px;
+            color: blue;
+        }
+        .d2{
+            width: 75px;
+            height: 45px;
+            border: 3px solid yellow;
+            margin-left: 100px;
+            text-align: center;
+            font-size: 30px;
+            color: yellow;
+        }
+        #winner{
+            transform: rotate(10px,10px);
+        }
+       
