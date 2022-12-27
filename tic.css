@@ -35,6 +35,8 @@
             width: 75px;
             height: 75px;
             border: 3px solid black;
+            font-size: 65px;
+            text-align: center;
             
         }
         @keyframes first {
@@ -49,6 +51,8 @@
             width: 75px;
             height: 75px;
             border: 3px solid black;
+            font-size: 65px;
+            text-align: center;
         }
         .second:hover{
             border: 5px solid black;
@@ -58,6 +62,8 @@
             width: 75px;
             height: 75px;
             border: 3px solid black;
+            font-size: 65px;
+            text-align: center;
         }
         .third:hover{
             border: 5px solid black;
